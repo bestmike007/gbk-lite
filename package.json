@@ -1,0 +1,24 @@
+{
+  "name": "gbk-lite",
+  "version": "1.0.0",
+  "description": "Convert UTF8 to GBK in browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dist": "node generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestmike007/gbk-lite.git"
+  },
+  "keywords": [
+    "GBK",
+    "UTF8"
+  ],
+  "author": "bestmike007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bestmike007/gbk-lite/issues"
+  },
+  "homepage": "https://github.com/bestmike007/gbk-lite#readme"
+}
